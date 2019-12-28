@@ -1,8 +1,6 @@
 package app3.java.geometrie;
 
 import java.util.ArrayList;
-import java.awt.Color;
-import java.awt.Point;
 
 public class ListeFormes extends ArrayList<Forme>{
 
